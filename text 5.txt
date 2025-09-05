@@ -1,0 +1,11 @@
+alekd-miami/
+├── index.html          # Home (hero + intro + highlights)
+├── work.html           # All projects
+├── project-beachfront-villa.html
+├── project-ocean-drive-offices.html
+├── project-art-deco-gallery.html
+├── services.html
+├── studio.html
+├── contact.html
+├── styles.css
+└── script.js

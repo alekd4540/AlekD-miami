@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AlekD Architectural Design — Miami Beach</title>
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <!-- Shared Header -->
+  <header>
+    <div class="container nav">
+      <a href="index.html" class="brand">AlekD <span>Architectural Design</span></a>
+      <nav>
+        <a href="work.html">Work</a>
+        <a href="services.html">Services</a>
+        <a href="studio.html">Studio</a>
+        <a href="contact.html" class="btn">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <h1>Architecture in <em>Miami Beach</em></h1>
+      <p>Designing timeless residential and cultural projects along the Florida coast.</p>
+      <a href="work.html" class="btn">Explore Work</a>
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1600" alt="Miami Beach modern villa">
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <h2>Featured Projects</h2>
+        <div class="grid">
+          <a href="project-beachfront-villa.html" class="card">
+            <img src="https://images.unsplash.com/photo-1599423300746-b62533397364?q=80&w=1600" alt="">
+            <h3>Beachfront Villa</h3>
+          </a>
+          <a href="project-ocean-drive-offices.html" class="card">
+            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600" alt="">
+            <h3>Ocean Drive Offices</h3>
+          </a>
+          <a href="project-art-deco-gallery.html" class="card">
+            <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600" alt="">
+            <h3>Art Deco Gallery</h3>
+          </a>
+        </div>
+        <p><a href="work.html">See all projects →</a></p>
+      </div>
+    </section>
+  </main>
+
+  <!-- Shared Footer -->
+  <footer>
+    <div class="container">
+      <p>© <span id="year"></span> AlekD — Miami Beach</p>
+    </div>
+  </footer>
+  <script src="script.js"></script>
+</body>
+</html>

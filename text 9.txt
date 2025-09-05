@@ -1,0 +1,22 @@
+<main class="section">
+  <div class="container">
+    <h1>Contact</h1>
+    <p>We’d love to hear about your project in Miami Beach or beyond.</p>
+    <p><strong>Email:</strong> <a href="mailto:studio@alekd.design">studio@alekd.design</a></p>
+    <p><strong>Phone:</strong> (305) 555-0199</p>
+    <p><strong>Address:</strong> 123 Collins Ave, Miami Beach, FL</p>
+
+    <form name="contact" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="contact">
+      <p><label>Your Name <input type="text" name="name" required></label></p>
+      <p><label>Email <input type="email" name="email" required></label></p>
+      <p><label>Message <textarea name="message"></textarea></label></p>
+      <p><button type="submit" class="btn">Send</button></p>
+    </form>
+
+    <iframe
+      src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3585.363...MiamiBeach"
+      width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy">
+    </iframe>
+  </div>
+</main>

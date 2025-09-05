@@ -1,0 +1,18 @@
+<main class="section">
+  <div class="container">
+    <h1>Beachfront Villa</h1>
+    <p><strong>Location:</strong> Miami Beach, FL<br>
+       <strong>Year:</strong> 2024<br>
+       <strong>Type:</strong> Residential</p>
+
+    <img src="https://images.unsplash.com/photo-1599423300746-b62533397364?q=80&w=1600" alt="Luxury villa exterior">
+
+    <h2>Concept</h2>
+    <p>A modern beachfront villa that embraces the Atlantic views, natural light, and Miami’s tropical climate.</p>
+
+    <h2>Design</h2>
+    <p>Minimalist concrete volumes, shaded terraces, and expansive glass bring the outdoors in while ensuring resilience against coastal conditions.</p>
+
+    <p><a href="work.html">← Back to all projects</a></p>
+  </div>
+</main>

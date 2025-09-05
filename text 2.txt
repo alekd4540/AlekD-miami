@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AlekD Architectural Design — Miami Beach, FL</title>
+  <meta name="description" content="AlekD Architectural Design in Miami Beach, Florida. Contemporary architecture, interiors, and planning for residential, commercial, and cultural projects." />
+  <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top">AlekD<span>Architectural Design</span></a>
+      <nav>
+        <ul>
+          <li><a href="#work">Work</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#studio">Studio</a></li>
+          <li><a href="#contact" class="btn">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <!-- HERO -->
+    <section class="hero">
+      <div class="container">
+        <h1>Modern Architecture in <em>Miami Beach</em></h1>
+        <p>Designing refined residential, commercial, and cultural spaces along the Florida coast.</p>
+        <a href="#work" class="btn">See Projects</a>
+      </div>
+      <img src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1600" alt="Miami Beach modern house with ocean view">
+    </section>
+
+    <!-- WORK -->
+    <section id="work" class="section">
+      <div class="container">
+        <h2>Selected Work</h2>
+        <div class="grid">
+          <article class="card">
+            <img src="https://images.unsplash.com/photo-1599423300746-b62533397364?q=80&w=1600" alt="Luxury Miami beachfront villa">
+            <h3>Beachfront Villa</h3>
+            <p>Miami Beach, 2024 • Residential</p>
+          </article>
+          <article class="card">
+            <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600" alt="Modern glass office tower in downtown Miami">
+            <h3>Ocean Drive Offices</h3>
+            <p>Miami, 2023 • Commercial</p>
+          </article>
+          <article class="card">
+            <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600" alt="Miami art gallery interior">
+            <h3>Art Deco Gallery</h3>
+            <p>Miami Beach, 2022 • Cultural</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- SERVICES -->
+    <section id="services" class="section section-alt">
+      <div class="container">
+        <h2>Services</h2>
+        <div class="grid services">
+          <div><h3>Architectural Design</h3><p>Residential & commercial projects shaped by Miami’s coastal lifestyle.</p></div>
+          <div><h3>Interior Architecture</h3><p>Seamless interiors with curated materials and natural light.</p></div>
+          <div><h3>Planning & Permitting</h3><p>Experience with Miami Beach zoning and coastal regulations.</p></div>
+          <div><h3>Project Delivery</h3><p>From tender to construction, ensuring precision and craft.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- STUDIO -->
+    <section id="studio" class="section">
+      <div class="container">
+        <h2>Studio</h2>
+        <p>AlekD is a Miami Beach–based architectural design practice. We focus on contemporary, context-sensitive design that balances material, light, and climate. From oceanfront villas to urban spaces, our goal is to create timeless environments for living and working.</p>
+        <ul class="stats">
+          <li><strong>20+</strong> Miami projects</li>
+          <li><strong>10</strong> years in practice</li>
+          <li><strong>Coastal</strong> design expertise</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section id="contact" class="section section-alt">
+      <div class="container">
+        <h2>Contact</h2>
+        <p>Based in Miami Beach, we serve clients across South Florida.</p>
+        <p><strong>Email:</strong> <a href="mailto:studio@alekd.design">studio@alekd.design</a></p>
+        <p><strong>Phone:</strong> (305) 555-0199</p>
+        <p><strong>Address:</strong> 123 Collins Ave, Miami Beach, FL</p>
+        <form name="contact" method="POST" data-netlify="true">
+          <input type="hidden" name="form-name" value="contact">
+          <p><label>Your Name <input type="text" name="name" required></label></p>
+          <p><label>Email <input type="email" name="email" required></label></p>
+          <p><label>Message <textarea name="message" rows="4"></textarea></label></p>
+          <p><button type="submit" class="btn">Send</button></p>
+        </form>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>© <span id="year"></span> AlekD Architectural Design — Miami Beach, FL</p>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

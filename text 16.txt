@@ -1,0 +1,18 @@
+<main class="section">
+  <div class="container">
+    <h1>Art Deco Gallery</h1>
+    <p><strong>Location:</strong> Miami Beach, FL<br>
+       <strong>Year:</strong> 2022<br>
+       <strong>Type:</strong> Cultural</p>
+
+    <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600" alt="Art gallery interior">
+
+    <h2>Concept</h2>
+    <p>A cultural space celebrating Miami’s Art Deco history while adapting the building for contemporary exhibitions.</p>
+
+    <h2>Design</h2>
+    <p>Restored pastel façade meets minimalist white-cube interiors. Flexible gallery spaces allow for rotating exhibitions and events.</p>
+
+    <p><a href="work.html">← Back to all projects</a></p>
+  </div>
+</main>

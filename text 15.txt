@@ -1,0 +1,18 @@
+<main class="section">
+  <div class="container">
+    <h1>Ocean Drive Offices</h1>
+    <p><strong>Location:</strong> Downtown Miami, FL<br>
+       <strong>Year:</strong> 2023<br>
+       <strong>Type:</strong> Commercial</p>
+
+    <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600" alt="Modern office tower">
+
+    <h2>Concept</h2>
+    <p>A commercial development designed to reflect Miami’s dynamic skyline. Transparency, daylight, and efficiency were central to the approach.</p>
+
+    <h2>Design</h2>
+    <p>Glass curtain walls reduce energy use with smart shading. A lobby inspired by Art Deco geometry connects the project with Miami’s cultural heritage.</p>
+
+    <p><a href="work.html">← Back to all projects</a></p>
+  </div>
+</main>

@@ -1,0 +1,22 @@
+<main class="section">
+  <div class="container">
+    <h1>All Projects</h1>
+    <div class="grid">
+      <a href="project-beachfront-villa.html" class="card">
+        <img src="https://images.unsplash.com/photo-1599423300746-b62533397364?q=80&w=1600" alt="">
+        <h3>Beachfront Villa</h3>
+        <p>Miami Beach, 2024 • Residential</p>
+      </a>
+      <a href="project-ocean-drive-offices.html" class="card">
+        <img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1600" alt="">
+        <h3>Ocean Drive Offices</h3>
+        <p>Miami, 2023 • Commercial</p>
+      </a>
+      <a href="project-art-deco-gallery.html" class="card">
+        <img src="https://images.unsplash.com/photo-1505691938895-1758d7feb511?q=80&w=1600" alt="">
+        <h3>Art Deco Gallery</h3>
+        <p>Miami Beach, 2022 • Cultural</p>
+      </a>
+    </div>
+  </div>
+</main>

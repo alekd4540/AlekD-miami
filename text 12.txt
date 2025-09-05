@@ -1,0 +1,6 @@
+<footer>
+  <div class="container">
+    <p>© <span id="year"></span> AlekD — Miami Beach</p>
+  </div>
+</footer>
+<script src="script.js"></script>

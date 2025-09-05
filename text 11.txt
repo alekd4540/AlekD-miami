@@ -1,0 +1,11 @@
+<header>
+  <div class="container nav">
+    <a href="index.html" class="brand">AlekD <span>Architectural Design</span></a>
+    <nav>
+      <a href="work.html">Work</a>
+      <a href="services.html">Services</a>
+      <a href="studio.html">Studio</a>
+      <a href="contact.html" class="btn">Contact</a>
+    </nav>
+  </div>
+</header>

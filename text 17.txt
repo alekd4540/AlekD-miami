@@ -1,0 +1,23 @@
+<main class="section">
+  <div class="container">
+    <h1>Services</h1>
+    <div class="grid services">
+      <div>
+        <h3>Architectural Design</h3>
+        <p>Residential & commercial design inspired by Miami’s coastal environment.</p>
+      </div>
+      <div>
+        <h3>Interior Architecture</h3>
+        <p>Tailored interiors with natural light, local materials, and refined detailing.</p>
+      </div>
+      <div>
+        <h3>Planning & Permitting</h3>
+        <p>Expertise in Miami Beach zoning, coastal building codes, and approvals.</p>
+      </div>
+      <div>
+        <h3>Project Delivery</h3>
+        <p>End-to-end management from tender through construction.</p>
+      </div>
+    </div>
+  </div>
+</main>

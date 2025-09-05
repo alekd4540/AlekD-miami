@@ -1,0 +1,12 @@
+<main class="section">
+  <div class="container">
+    <h1>Studio</h1>
+    <p>AlekD is a Miami Beach–based practice focused on contemporary, climate-responsive architecture. Our design balances material, light, and context.</p>
+
+    <ul class="stats">
+      <li><strong>20+</strong> Miami projects</li>
+      <li><strong>10</strong> years in practice</li>
+      <li><strong>Coastal</strong> expertise</li>
+    </ul>
+  </div>
+</main>
